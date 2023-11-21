@@ -1,50 +1,221 @@
-# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
+<h1 align="center">Hugo + Tailwind CSS Starter and Boilerplate</h1>
 
-[![Screenshot](./preview.png)](https://hugoblox.com/templates/)
+<p align="center">Hugoplate is a free starter template built with Hugo, and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time.</p>
 
-The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+<p align="center">Made with ♥ by <a href="https://zeon.studio/"> Zeon Studio</a></p>
+<p align=center> If you find this project useful, please give it a ⭐ to show your support.</p>
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/GetResearchDev)
+<h2 align="center"> <a target="_blank" href="https://hugoplate.netlify.app/" rel="nofollow">👀 Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/analysis/https-hugoplate-netlify-app/6lyxjw6t4r?form_factor=desktop">Page Speed (95+)🚀</a>
+</h2>
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, Hugo Blox Builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+<p align="center">
+  <a href="https://github.com/gohugoio/hugo/releases/tag/v0.118.2" alt="Contributors">
+    <img src="https://img.shields.io/static/v1?label=min-HUGO-version&message=0.118.2&color=f00&logo=hugo" />
+  </a>
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+  <a href="https://github.com/zeon-studio/hugoplate/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/zeon-studio/hugoplate" alt="license">
+  </a>
 
-[Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [get inspired by our academics and research groups](https://hugoblox.com/creators/).
+  <a href="https://github.com/zeon-studio/hugoplate">
+    <img src="https://img.shields.io/github/languages/code-size/zeon-studio/hugoplate" alt="code size">
+  </a>
 
-The integrated [**Hugo Blox Builder**](https://hugoblox.com) and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+  <a href="https://github.com/zeon-studio/hugoplate/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/zeon-studio/hugoplate" alt="contributors">
+  </a>
+</p>
 
-- 👉 [**Get Started**](https://hugoblox.com/templates/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox Builder community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithHugoBlox](https://twitter.com/search?q=%23MadeWithHugoBlox&src=typed_query)
-- ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 💡 [Suggest an improvement](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+## 🎁 What's Included
 
-## We ask you, humbly, to support this open source movement
+We have included almost everything you need to start your Hugo project. Let's see what's included in this template:
 
-Today we ask you to defend the open source independence of the Hugo Blox Builder and themes 🐧
+### 📌 Key Features
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+- 👥 Multi-Authors
+- 🎯 Similar Posts Suggestion
+- 🔍 Search Functionality
+- 🌑 Dark Mode
+- 🏷️ Tags & Categories
+- 🔗 Netlify setting pre-configured
+- 📞 Support contact form
+- 📱 Fully responsive
+- 📝 Write and update content in Markdown
+- 💬 Disqus Comment
+- 🔳 Syntax Highlighting
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+### 📄 15+ Pre-designed Pages
 
-<p align="center"><a href="https://hugoblox.com/templates/" target="_blank" rel="noopener"><img src="https://hugoblox.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Hugo Blox Builder"></a></p>
+- 🏠 Homepage
+- 👤 About
+- 📞 Contact
+- 👥 Authors
+- 👤 Author Single
+- 📝 Blog
+- 📝 Blog Single
+- 🚫 Custom 404
+- 💡 Elements
+- 📄 Privacy Policy
+- 🏷️ Tags
+- 🏷️ Tag Single
+- 🗂️ Categories
+- 🗂️ Category Single
+- 🔍 Search
 
-## Demo image credits
+### 📦 Tech Stack
 
-- [Unsplash](https://unsplash.com)
+- [Hugo](https://gohugo.io/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [PostCSS](https://postcss.org/)
+- [PurgeCSS](https://purgecss.com/)
+- [AutoPrefixer](https://autoprefixer.github.io/)
+- [Hugo Modules](https://gohugo.io/hugo-modules/)
+- [Markdown](https://markdownguide.org/)
+- [Prettier](https://prettier.io/)
+- [Jshint](https://jshint.com/)
+- [Netlify](https://www.netlify.com/)
+- [Vercel](https://vercel.com/)
+- [Github Actions](https://github.com/features/actions)
+- [Gitlab Ci](https://docs.gitlab.com/ee/ci/)
+- [AWS Amplify](https://aws.amazon.com/amplify/)
 
-## Latest news
+---
 
-<!--START_SECTION:news-->
+## 🚀 Getting Started
 
-- [Easily make an academic CV website to get more cites and grow your audience 🚀](https://hugoblox.com/blog/easily-make-academic-website/)
-- [What&#39;s new in v5.2?](https://hugoblox.com/blog/whats-new-in-v5.2/)
-- [What&#39;s new in v5.1?](https://hugoblox.com/blog/whats-new-in-v5.1/)
-- [Version 5.0 (February 2021)](https://hugoblox.com/blog/version-5.0-february-2021/)
-- [Version 5.0 Beta 3 (February 2021)](https://hugoblox.com/blog/version-5.0-beta-3-february-2021/)
-<!--END_SECTION:news-->
+First you need to [clone](https://github.com/zeon-studio/hugoplate) or [download](https://github.com/zeon-studio/hugoplate/archive/refs/heads/main.zip) the template repository, and then let's get started with the following process:
+
+### ⚙️ Prerequisites
+
+To start using this template, you need to have some prerequisites installed on your machine.
+
+- [Hugo Extended v0.115+](https://gohugo.io/installation/)
+- [Node v18+](https://nodejs.org/en/download/)
+- [Go v1.20+](https://go.dev/doc/install)
+
+### 👉 Project Setup
+
+We build this custom script to make your project setup easier. It will create a new Hugo theme folder, and clone the Hugoplate theme into it. Then move the exampleSite folder into the root directory. So that you can start your Hugo server without going into the exampleSite folder. Use the following command to setup your project.
+
+```bash
+npm run project-setup
+```
+
+### 👉 Install Dependencies
+
+Install all the dependencies using the following command.
+
+```bash
+npm install
+```
+
+### 👉 Development Command
+
+Start the development server using the following command.
+
+```bash
+npm run dev
+```
+
+### 🎬 Still Confused? Watch a Quick Video
+
+https://github.com/zeon-studio/hugoplate/assets/58769763/c260c0ae-91be-42ce-b8db-aa7f11f777bd
+
+---
+
+## 📝 Customization
+
+This template has been designed with a lot of customization options in mind. You can customize almost anything you want, including:
+
+### 👉 Site Config
+
+You can change the site title, base URL, language, theme, plugins, and more from the `hugo.toml` file.
+
+### 👉 Site Params
+
+You can customize all the parameters from the `config/_default/params.toml` file. This includes the logo, favicon, search, SEO metadata, and more.
+
+### 👉 Colors and Fonts
+
+You can change the colors and fonts from the `data/theme.json` file. This includes the primary color, secondary color, font family, and font size.
+
+### 👉 Social Links
+
+You can change the social links from the `data/social.json` file. Add your social links here, and they will automatically be displayed on the site.
+
+---
+
+## 🛠 Advanced Usage
+
+We have added some custom scripts to make your life easier. You can use these scripts to help you with your development.
+
+### 👉 Update Modules
+
+We have added a lot of modules to this template. You can update all the modules using the following command.
+
+```bash
+npm run update-modules
+```
+
+### 👉 Remove Dark Mode
+
+If you want to remove dark mode from your project, then you have to do it manually from everywhere. So we build a custom script to do it for you. you can use the following command to remove dark mode from your project.
+
+```bash
+npm run remove-darkmode
+```
+
+---
+
+## 🚀 Build And Deploy
+
+After you finish your development, you can build or deploy your project almost everywhere. Let's see the process:
+
+### 👉 Build Command
+
+To build your project locally, you can use the following command. It will purge all the unused CSS and minify all the files.
+
+```bash
+npm run build
+```
+
+### 👉 Deploy Site
+
+We have provided 5 different deploy platform configurations with this template, so you can deploy easily.
+
+- [Netlify](https://www.netlify.com/)
+- [Vercel](https://vercel.com/)
+- [Github Actions](https://github.com/features/actions)
+- [Gitlab Ci](https://docs.gitlab.com/ee/ci/)
+- [AWS Amplify](https://aws.amazon.com/amplify/)
+
+And if you want to Host some other hosting platforms. then you can build your project, and you will get a `public` folder. that you can copy and paste on your hosting platform.
+
+> **Note:** You must change the `baseURL` in the `hugo.toml` file. Otherwise, your site will not work properly.
+
+---
+
+## 🔒 Guide to Staying Compliant
+
+### 🐞 Reporting Issues
+
+We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/zeon-studio/hugoplate/issues). It’s possible someone has already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/zeon-studio/hugoplate/issues).
+
+### 📝 License
+
+Copyright (c) 2023 - Present, Designed & Developed by [Zeon Studio](https://zeon.studio/)
+
+**Code License:** Released under the [MIT](https://github.com/zeon-studio/hugoplate/blob/main/LICENSE) license.
+
+**Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
+
+---
+
+## 🖼️ Showcase 
+
+List of projects people are building with **Hugoplate**! Have you built a project with Hugoplate? Submit it by creating a pull request and we'll feature it here!
+
+| [![Open Neuromorphic](https://tinyurl.com/hp7avtje)](https://open-neuromorphic.org/) | [![AI Models](https://tinyurl.com/mu4p7dhb)](https://aimodels.org/) | [![Hugobricks](https://tinyurl.com/4x3uwhm9)](https://www.hugobricks.preview.usecue.com/) |
+|:---:|:---:|:---:|
+| **Open Neuromorphic** | **AI Models** | **Hugobricks** |
