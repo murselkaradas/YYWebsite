@@ -2,8 +2,8 @@
 # favicon
 favicon = "images/favicon.png"
 # logo
-logo = "images/logo.png"
-logo_darkmode = "images/logo.png"
+logo = "images/Logo.png"
+logo_darkmode = "images/Logo.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "64px"
@@ -16,7 +16,7 @@ logo_text = "YYZ Research Space"
 navbar_fixed = true
 # theme-mode
 theme_switcher = true
-theme_default = "dark" # available options [light/dark/system]
+theme_default = "system" # available options [light/dark/system]
 # Main Sections
 mainSections = ["blog"]
 # contact form action
@@ -59,7 +59,7 @@ show_categories = true
 keywords = ["Neuromodulators", "Hippocampus"]
 description = "YYZ Research Space"
 author = "YYZ"
-image = "images/og-image.png"
+image = "images/Logo.png"
 
 
 # site verifications
