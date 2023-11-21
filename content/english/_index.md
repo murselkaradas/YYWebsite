@@ -4,8 +4,6 @@ banner:
   title: "Welcome to  Yiyao Zhang's Research Space"
   content: "I am a Post Doctoral Researcher in the laboratory of [**György Buzsáki**](https://buzsakilab.com/wp/labmembers/) at New York University School  of Medicine.
   The ultimate aim of my research is to shed light on the intricate connection between neuromodulators and the dynamic states of neural networks, with a particular focus on their potential role in the onset and progression of brain disorders such as epilepsy, Alzheimer’s disease, autism, and dementia."
-  image: "/images/yyz.jpg"
-
 # Features
 features:
   - title: "Research Interest"
