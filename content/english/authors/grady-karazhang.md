@@ -1,7 +1,7 @@
 ---
 title: Grady Karazhang
-email: williamjacob@email.com
-image: "/images/logo.png"
+email: gradykarazhang@email.com
+image: "/images/Grady.png"
 description: this is meta description
 ---
 
