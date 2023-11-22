@@ -10,7 +10,7 @@
         <div class="col-12" style="flex: 1;">
           {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Size" "200x200") }}
         </div>
-        <div class="lg:col-7 mb-8 text-center" style="flex: 2;">
+        <div class="lg:col-7 mb-8 text-center" style="flex: 2; text-align: justify;">
           <p class="mb-8">
             {{ .content | markdownify }}
           </p>
