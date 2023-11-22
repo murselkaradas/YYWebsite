@@ -44,12 +44,15 @@ This work is published as a part of my PhD study in Journal of Neuroscience. [Li
 <hr>
 
 ### Project 2 Highlights
-{{< slider dir="images/PNAS" class="max-w-[1000px] ml-0" height="800" width="800" webp="true" command="Fit" option="" zoomable="true" >}}
+
+{{< slider dir="images/PNAS" class="max-w-[600px] ml-0" height="800" width="800" webp="true" command="Fit" option="" zoomable="true" >}}
 
 <hr>
 
 ### Project 1 Highlight
-{{< image src="images/jneuro/02.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+
+{{< slider dir="images/jneuro" class="max-w-[600px] ml-0" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+
 
 
 <hr>
