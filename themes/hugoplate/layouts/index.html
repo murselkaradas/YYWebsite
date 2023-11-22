@@ -3,8 +3,12 @@
   {{ with .Params.banner }}
     <section class="section pt-14">
       <div class="container">
-        <div class="row justify-center">
-          <div class="lg:col-7 mb-8 text-center">
+        <div class="row justify-center" style="display: flex; flex-direction: row;">
+
+          <div class="col-12" style="flex: 1;">
+            {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Size" "300x300") }}
+          </div>
+          <div class="lg:col-7 mb-8 text-center" style="flex: 2;">
             <h1 class="mb-4">
               {{ .title | markdownify }}
             </h1>
@@ -19,9 +23,6 @@
                 </a>
               {{ end }}
             {{ end }}
-          </div>
-          <div class="col-12">
-            {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" ) }}
           </div>
         </div>
       </div>
