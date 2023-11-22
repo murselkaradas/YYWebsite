@@ -7,8 +7,6 @@ draft: false
 ---
 
 
-{{< notice "INTERNAL WIKIPAGE" >}}
 
 http://wiki.yiyao-zhang.com/
 
-{{< /notice >}}
