@@ -16,7 +16,7 @@ logo_text = "YYZ Research Space"
 navbar_fixed = true
 # theme-mode
 theme_switcher = true
-theme_default = "system" # available options [light/dark/system]
+theme_default = "dark" # available options [light/dark/system]
 # Main Sections
 mainSections = ["blog"]
 # contact form action
@@ -59,7 +59,7 @@ show_categories = true
 keywords = ["Neuromodulators", "Hippocampus"]
 description = "YYZ Research Space"
 author = "YYZ"
-image = "images/Logo.png"
+image = "images/og-image.png"
 
 
 # site verifications
@@ -91,7 +91,6 @@ map_api_key = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
 map_latitude = "40.740686358180156,"
 map_longitude = "-73.97384441689262"
 map_marker = "images/marker.png"
-
 
 # Subscription
 [subscription]
