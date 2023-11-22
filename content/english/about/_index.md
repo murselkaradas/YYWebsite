@@ -10,6 +10,5 @@ I am a Post Doctoral Researcher in the laboratory of [György Buzsáki](https://
 {{< /notice >}}
 
 ## CV
----
-title: "Authors"
----
+{{< pdfReader "CV_YY.pdf" >}}
+
