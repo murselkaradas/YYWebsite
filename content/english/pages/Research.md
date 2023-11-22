@@ -45,7 +45,7 @@ This work is published as a part of my PhD study in Journal of Neuroscience. [Li
 
 ### Project 2 Highlights
 
-{{< slider dir="images/PNAS" class="max-w-[600px] ml-0" height="800" width="800" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< slider dir="images/pnas" class="max-w-[600px] ml-0" height="800" width="800" webp="true" command="Fit" option="" zoomable="true" >}}
 
 <hr>
 
